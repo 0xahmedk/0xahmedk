@@ -7,7 +7,7 @@
 
 - 🔭 I’m `Web3` and `Blockchain` enthusiast.
 
-- :fire: I'm extremely passionated for `React Native`
+- :fire: I'm extremely passionate for `React Native`
 
 - 🌱 I’m currently learning `Solidity`
 
