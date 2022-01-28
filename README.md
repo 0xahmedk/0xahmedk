@@ -5,11 +5,11 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m `Web3` and `Blockchain` enthusiast.
+- :fire: I'm a `React Native` developer.
 
-- :fire: I'm extremely passionate for `React Native`
+- 🔭 I’m also `Web3` and `Blockchain` enthusiast.
 
-- 🌱 I’m currently learning `Solidity`
+- 🌱 Currently I'm learning `Solidity`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
