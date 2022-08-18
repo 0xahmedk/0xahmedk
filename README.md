@@ -72,6 +72,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ahmedk743&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedk743&" alt="ahmedk" />
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1048&layout=compact"><p>
 </div>
 
 
