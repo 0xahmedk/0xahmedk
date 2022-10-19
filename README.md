@@ -5,7 +5,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- :fire: I'm a `React Native` developer.
+- :fire: I'm a `Full Stack Web` developer.
 
 - 🔭 I’m also `Web3` and `Blockchain` enthusiast.
 
