@@ -1,5 +1,5 @@
 <h1 align="center">Selam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ahmed K</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedk743&label=Profile%20views&color=129e00&style=plastic" alt="ahmedk743" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xahmedk&label=Profile%20views&color=129e00&style=plastic" alt="0xahmedk" /> </p>
 
 ## 👨 About Me:
 
@@ -71,8 +71,8 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ahmedk743&show_icons=true" /><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedk743&" alt="ahmedk" /><br>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=0xahmedk&show_icons=true" /><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xahmedk&" alt="ahmedk" /><br>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1048&layout=compact"><p>
 </div>
 
@@ -87,7 +87,7 @@
 
 
 
-**ahmedk743/ahmedk743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xahmedk/0xahmedk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
