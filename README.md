@@ -7,12 +7,6 @@
 
 - :fire: I'm a `Full Stack Web` developer.
 
-- 🔭 I’m also `Web3` and `Blockchain` enthusiast.
-
-- 🌱 Currently I'm learning `Solidity`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I love studying History
